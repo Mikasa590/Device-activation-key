@@ -1,7 +1,7 @@
 【Email】Mikasa【Email】
 【Pass】feedback【Pass】
-【Expire】2025-11-9 03:40:00 PM【Expire】
+【Expire】2025-11-10 03:40:00 PM【Expire】
  
  
-【RenewLink】https://t.me/katsuuuchannellmodz【RenewLink】
+【RenewLink】https://t.me/mikasa_modz【RenewLink】
 【ExpiredMessage】Your premium access has expired, do you want to extend it? Click the renew button.【ExpiredMessage】
